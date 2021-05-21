@@ -100,8 +100,27 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
               </td>
               <td> 
               <ul>
-                <li> <a href="5_6.pdf"> <b> Lecture 5 </b></a> </li>
+                <li> <a href="5_6.pdf"> <b> Lecture 6 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=INazZ1u1iSQ"> <b> Lecture 6 Video </b></a> </li>
+                </ul>
+            </td>
+            </tr>
+                <tr>
+            <td> 7 </td>
+            <td> 
+                  <ul>  
+                     <li> Informed Search Strategies. </li>
+                     <li> Heuristics. </li>
+                     <li> Best first search Algorithms. </li>
+                     <li> Greedy Search. </li>
+                     <li> A* Search. </li>
+                     <li> Optimality of A* Search Algorithm. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="7.pdf"> <b> Lecture 7 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=T66XeWopL4k"> <b> Lecture 7 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
