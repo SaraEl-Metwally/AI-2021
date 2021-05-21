@@ -62,7 +62,6 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                   <ul>  
                      <li> Problem formulation. </li>
                      <li> Search strategies. </li>
-                    
                  </ul>
               </td>
               <td> 
@@ -76,8 +75,7 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
             <td> 5 </td>
             <td> 
                   <ul>  
-                     <li> Un-informed Search strategies. </li>
-                    
+                     <li> Un-informed Search strategies. </li>  
                  </ul>
               </td>
               <td> 
