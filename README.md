@@ -142,4 +142,22 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                 </ul>
             </td>
             </tr>
+           <tr>
+            <td> 9 </td>
+            <td> 
+                  <ul>  
+                     <li> Constraint Satisfaction Problems. </li>
+                     <li> Backtracking for CSP. </li>
+                     <li> Improving backtracking efficiency. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="9.pdf"> <b> Lecture 9 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=5C4tMD7f3VI"> <b> Lecture 9 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=g5_0uXb843M"> <b> Lecture 9 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=r2UQf4Er1ng"> <b> Lecture 9 Video Part 3 </b></a> </li>
+                </ul>
+            </td>
+            </tr>
   </table>
