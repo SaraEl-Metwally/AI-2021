@@ -96,7 +96,6 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                      <li> Depth-limited search. </li>
                      <li> Iterative deepening search. </li>
                      <li> Bidirectional search. </li>
-                    
                  </ul>
               </td>
               <td> 
