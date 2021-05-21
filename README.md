@@ -105,7 +105,7 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                 </ul>
             </td>
             </tr>
-                <tr>
+             <tr>
             <td> 7 </td>
             <td> 
                   <ul>  
@@ -121,6 +121,24 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
               <ul>
                 <li> <a href="7.pdf"> <b> Lecture 7 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=T66XeWopL4k"> <b> Lecture 7 Video </b></a> </li>
+                </ul>
+            </td>
+            </tr>
+               <tr>
+            <td> 8 </td>
+            <td> 
+                  <ul>  
+                     <li> Local search Algorithms. </li>
+                     <li> Hill climbing local search. </li>
+                     <li> Genetic Algorithm. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="8.pdf"> <b> Lecture 8 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=kmeZURf9U98"> <b> Lecture 8 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=-wf6sUYHc_g"> <b> Lecture 8 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=ynLwzzKlBNE"> <b> Lecture 8 Video Part 3 </b></a> </li>
                 </ul>
             </td>
             </tr>
