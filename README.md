@@ -160,4 +160,27 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                 </ul>
             </td>
             </tr>
+             <tr>
+            <td> 10 </td>
+            <td> 
+                  <ul>  
+                     <li> Needs for Machine Learning. </li>
+                     <li> What is Machine Learning. </li>
+                     <li> Machine Learning Definitions. </li>
+                     <li> Machine Learning Process. </li>
+                     <li> Types of Machine Learning. </li>
+                     <li> Linear Regression. </li>
+                     <li> Simple Demo. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="10.pdf"> <b> Lecture 10 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=67yA69HzqLk"> <b> Lecture 10 Video Part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=DPpFPVynIK4"> <b> Lecture 10 Video Part 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=v8Y18g74BG0"> <b> Lecture 10 Video Part 3 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=D0-2BT0bKsE"> <b> Lecture 10 Video Part 4 </b></a> </li>
+                </ul>
+            </td>
+            </tr>
   </table>
