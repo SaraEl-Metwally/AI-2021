@@ -76,12 +76,33 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
             <td> 
                   <ul>  
                      <li> Un-informed Search strategies. </li>  
+                     <li> Breadth-first search. </li>
+                     <li> Uniform-cost search. </li>
                  </ul>
               </td>
               <td> 
               <ul>
                 <li> <a href="5_6.pdf"> <b> Lecture 5 </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=PuYAUGPQaSQ"> <b> Lecture 5 Video </b></a> </li>
+                </ul>
+            </td>
+            </tr>
+              <tr>
+            <td> 6 </td>
+            <td> 
+                  <ul>  
+                     <li> Uniform-cost search. </li>
+                     <li> Depth-first search. </li>
+                     <li> Depth-limited search. </li>
+                     <li> Iterative deepening search. </li>
+                     <li> Bidirectional search. </li>
+                    
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="5_6.pdf"> <b> Lecture 5 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=INazZ1u1iSQ"> <b> Lecture 6 Video </b></a> </li>
                 </ul>
             </td>
             </tr>
