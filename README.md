@@ -26,4 +26,36 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
                 </ul>
             </td>
              </tr>
+  
+          <tr>
+            <td> 2 </td>
+            <td> 
+              <ul>  
+                     <li> Intelligent Agents. </li>
+                     <li> Agent design. </li>
+                     <li> Environment Properties. </li>
+                     <li> Agents Types. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="2.pdf"> <b> Lecture 2 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=0dKzp1qgKPU"> <b> Lecture 2 Video </b></a> </li>
+                </ul>
+            </td>
+             </tr>
+          <tr>
+            <td> 3 </td>
+            <td> 
+              <ul>  
+                     <li> Agents Types. </li>
+                 </ul>
+              </td>
+              <td> 
+              <ul>
+                <li> <a href="2.pdf"> <b> Lecture 3 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=bva3ymDtHHo"> <b> Lecture 3 Video </b></a> </li>
+                </ul>
+            </td>
+             </tr>
   </table>
