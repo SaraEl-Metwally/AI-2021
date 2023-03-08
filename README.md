@@ -10,7 +10,7 @@ AI course (CS-324P) for 3rd year students, Computer Science Department, Faculty 
             <td> 1 </td>
             <td> 
               <ul>  
-                     <li> Course Outlines. </li>
+                     <li> Course hi Outlines. </li>
                      <li> Course Projects Requirements. </li>
                      <li> Why AI?. </li>
                      <li> History of AI. </li>
